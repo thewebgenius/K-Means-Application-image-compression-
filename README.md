@@ -21,6 +21,8 @@ Compare original vs compressed image side by side
 pip install numpy matplotlib scikit-learn scikit-image
 
 <br>📊 Example Output</br>
+![Output](output.png)
+
 
 
 <br>📖 Learnings</br>
